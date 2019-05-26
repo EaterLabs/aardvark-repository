@@ -317,15 +317,15 @@
                         },
                         {
                             "name": "GalacticCraftCore",
-                            "url": "https://ci.micdoodle8.com/job/Galacticraft-1.12/210/artifact/Forge/build/libs/GalacticraftCore-1.12.2-4.0.2.210.jar"
+                            "url": "https://zt.je/mc-mods/GalacticraftCore-4.0.2.210-1.12.2.jar"
                         },
                         {
                             "name": "GalacticCraftPlanets",
-                            "url": "https://ci.micdoodle8.com/job/Galacticraft-1.12/210/artifact/Forge/build/libs/Galacticraft-Planets-1.12.2-4.0.2.210.jar"
+                            "url": "https://zt.je/mc-mods/Galacticraft-Planets-4.0.2.210-1.12.2.jar"
                         },
                         {
                             "name": "MicDoodleCore",
-                            "url": "https://ci.micdoodle8.com/job/Galacticraft-1.12/210/artifact/Forge/build/libs/MicdoodleCore-1.12.2-4.0.2.210.jar"
+                            "url": "https://zt.je/mc-mods/MicdoodleCore-4.0.2.210-1.12.2.jar"
                         },
                         {
                             "name": "MoCreatures",
