@@ -17,6 +17,334 @@
             ],
             "description": "A modpack based around automation and exploration",
             "versions": {
+                "1.0.2": {
+                    "overlay": "https://zt.je/etckit/overlay.zip",
+                    "version": "1.0.2",
+                    "minecraft": "1.12.2",
+                    "forge": "14.23.5.2838",
+                    "mods": [
+                        {
+                            "name": "GasConduits",
+                            "url": "https://media.forgecdn.net/files/2698/379/GasConduits-1.12.2-1.2.1.jar"
+                        },
+                        {
+                            "name": "StorageDrawers",
+                            "url": "https://media.forgecdn.net/files/2642/386/StorageDrawers-1.12.2-5.3.8.jar"
+                        },
+                        {
+                            "name": "CTM",
+                            "url": "https://media.forgecdn.net/files/2642/375/CTM-MC1.12.2-0.3.3.22.jar"
+                        },
+                        {
+                            "name": "CoFHWorld",
+                            "url": "https://media.forgecdn.net/files/2715/784/CoFHWorld-1.12.2-1.3.1.7-universal.jar"
+                        },
+                        {
+                            "name": "mcjtylib",
+                            "url": "https://media.forgecdn.net/files/2714/365/mcjtylib-1.12-3.5.3.jar"
+                        },
+                        {
+                            "name": "Chameleon",
+                            "url": "https://media.forgecdn.net/files/2450/900/Chameleon-1.12-4.1.3.jar"
+                        },
+                        {
+                            "name": "industrialcraft",
+                            "url": "https://media.forgecdn.net/files/2664/570/industrialcraft-2-2.8.109-ex112.jar"
+                        },
+                        {
+                            "name": "TinkerToolLeveling",
+                            "url": "https://media.forgecdn.net/files/2630/860/TinkerToolLeveling-1.12.2-1.1.0.jar"
+                        },
+                        {
+                            "name": "MouseTweaks",
+                            "url": "https://media.forgecdn.net/files/2671/937/MouseTweaks-2.10-mc1.12.2.jar"
+                        },
+                        {
+                            "name": "ProjectE",
+                            "url": "https://media.forgecdn.net/files/2702/991/ProjectE-1.12.2-PE1.4.1.jar"
+                        },
+                        {
+                            "name": "Mekanism",
+                            "url": "https://media.forgecdn.net/files/2713/689/Mekanism-1.12.2-9.7.5.376.jar"
+                        },
+                        {
+                            "name": "DraconicEvolution",
+                            "url": "https://media.forgecdn.net/files/2710/583/Draconic-Evolution-1.12.2-2.3.22.343-universal.jar"
+                        },
+                        {
+                            "name": "jei",
+                            "url": "https://media.forgecdn.net/files/2682/936/jei_1.12.2-4.15.0.268.jar"
+                        },
+                        {
+                            "name": "journeymap",
+                            "url": "https://media.forgecdn.net/files/2682/920/journeymap-1.12.2-5.5.4.jar"
+                        },
+                        {
+                            "name": "TConstruct",
+                            "url": "https://media.forgecdn.net/files/2693/496/TConstruct-1.12.2-2.12.0.135.jar"
+                        },
+                        {
+                            "name": "Baubles",
+                            "url": "https://media.forgecdn.net/files/2518/667/Baubles-1.12-1.5.2.jar"
+                        },
+                        {
+                            "name": "ironchest",
+                            "url": "https://media.forgecdn.net/files/2713/441/ironchest-1.12.2-7.0.64.843.jar"
+                        },
+                        {
+                            "name": "InventoryTweaks",
+                            "url": "https://media.forgecdn.net/files/2670/367/InventoryTweaks-1.64%2Bdev.146.jar"
+                        },
+                        {
+                            "name": "extrautils",
+                            "url": "https://media.forgecdn.net/files/2678/374/extrautils2-1.12-1.9.9.jar"
+                        },
+                        {
+                            "name": "RedstoneFlux",
+                            "url": "https://media.forgecdn.net/files/2623/90/RedstoneFlux-1.12-2.1.0.6-universal.jar"
+                        },
+                        {
+                            "name": "ProjectRed-base",
+                            "url": "https://media.forgecdn.net/files/2572/423/ProjectRed-1.12.2-4.9.1.92-Base.jar"
+                        },
+                        {
+                            "name": "ProjectRed-mechanical",
+                            "url": "https://media.forgecdn.net/files/2572/422/ProjectRed-1.12.2-4.9.1.92-mechanical.jar"
+                        },
+                        {
+                            "name": "ProjectRed-world",
+                            "url": "https://media.forgecdn.net/files/2572/421/ProjectRed-1.12.2-4.9.1.92-world.jar"
+                        },
+                        {
+                            "name": "ProjectRed-compat",
+                            "url": "https://media.forgecdn.net/files/2572/420/ProjectRed-1.12.2-4.9.1.92-compat.jar"
+                        },
+                        {
+                            "name": "ProjectRed-fabrication",
+                            "url": "https://media.forgecdn.net/files/2572/424/ProjectRed-1.12.2-4.9.1.92-fabrication.jar"
+                        },
+                        {
+                            "name": "ProjectRed-lighting",
+                            "url": "https://media.forgecdn.net/files/2572/426/ProjectRed-1.12.2-4.9.1.92-lighting.jar"
+                        },
+                        {
+                            "name": "theoneprobe",
+                            "url": "https://media.forgecdn.net/files/2667/280/theoneprobe-1.12-1.4.28.jar"
+                        },
+                        {
+                            "name": "rftoolsdim",
+                            "url": "https://media.forgecdn.net/files/2707/390/rftoolsdim-1.12-5.71.jar"
+                        },
+                        {
+                            "name": "rftools",
+                            "url": "https://media.forgecdn.net/files/2707/388/rftools-1.12-7.71.jar"
+                        },
+                        {
+                            "name": "rftoolsctrl",
+                            "url": "https://media.forgecdn.net/files/2705/813/rftoolsctrl-1.12-2.0.2.jar"
+                        },
+                        {
+                            "name": "intwheel",
+                            "url": "https://media.forgecdn.net/files/2441/962/intwheel-1.12-1.2.7.jar"
+                        },
+                        {
+                            "name": "refinedstorage",
+                            "url": "https://media.forgecdn.net/files/2690/877/refinedstorage-1.6.14.jar"
+                        },
+                        {
+                            "name": "RebornStorage",
+                            "url": "https://media.forgecdn.net/files/2715/722/RebornStorage-1.12.2-3.3.4.85.jar"
+                        },
+                        {
+                            "name": "refinedstorageaddons",
+                            "url": "https://media.forgecdn.net/files/2690/723/refinedstorageaddons-0.4.4.jar"
+                        },
+                        {
+                            "name": "thermallogistics",
+                            "url": "https://media.forgecdn.net/files/2713/640/thermallogistics-0.2-25.jar"
+                        },
+                        {
+                            "name": "Treecapitator",
+                            "url": "https://media.forgecdn.net/files/2443/661/Treecapitator-1.12-at_0.9a.jar"
+                        },
+                        {
+                            "name": "ThermalFoundation",
+                            "url": "https://media.forgecdn.net/files/2715/788/ThermalFoundation-1.12.2-2.6.3.27-universal.jar"
+                        },
+                        {
+                            "name": "ThermalExpansion",
+                            "url": "https://media.forgecdn.net/files/2715/789/ThermalExpansion-1.12.2-5.5.4.43-universal.jar"
+                        },
+                        {
+                            "name": "ThermalCultivation",
+                            "url": "https://media.forgecdn.net/files/2715/791/ThermalCultivation-1.12.2-0.3.3.12-universal.jar"
+                        },
+                        {
+                            "name": "ThermalDynamics",
+                            "url": "https://media.forgecdn.net/files/2715/790/ThermalDynamics-1.12.2-2.5.4.20-universal.jar"
+                        },
+                        {
+                            "name": "ThermalInnovation",
+                            "url": "https://media.forgecdn.net/files/2715/787/ThermalInnovation-1.12.2-0.3.3.12-universal.jar"
+                        },
+                        {
+                            "name": "ThermalTinkering",
+                            "url": "https://media.forgecdn.net/files/2684/43/ThermalTinkering-1.12.2-2.0.1.jar"
+                        },
+                        {
+                            "name": "ironchest",
+                            "url": "https://media.forgecdn.net/files/2713/441/ironchest-1.12.2-7.0.64.843.jar"
+                        },
+                        {
+                            "name": "Mantle",
+                            "url": "https://media.forgecdn.net/files/2713/386/Mantle-1.12-1.3.3.55.jar"
+                        },
+                        {
+                            "name": "EnderStorage",
+                            "url": "https://media.forgecdn.net/files/2594/243/EnderStorage-1.12.2-2.4.5.135-universal.jar"
+                        },
+                        {
+                            "name": "CoFHCore",
+                            "url": "https://media.forgecdn.net/files/2715/783/CoFHCore-1.12.2-4.6.3.26-universal.jar"
+                        },
+                        {
+                            "name": "OpenModsLib",
+                            "url": "https://media.forgecdn.net/files/2699/55/OpenModsLib-1.12.2-0.12.2.jar"
+                        },
+                        {
+                            "name": "OpenBlocks",
+                            "url": "https://media.forgecdn.net/files/2699/56/OpenBlocks-1.12.2-1.8.1.jar"
+                        },
+                        {
+                            "name": "OpenComputers",
+                            "url": "https://media.forgecdn.net/files/2670/112/OpenComputers-MC1.12.2-1.7.4.153.jar"
+                        },
+                        {
+                            "name": "Computronics",
+                            "url": "http://files.vexatos.com/Computronics/Computronics-1.12.2-1.6.6.jar"
+                        },
+                        {
+                            "name": "optifinehdultrae",
+                            "url": "https://zt.je/mc-mods/optifine-1.12.2-hd-ultra-e3.jar"
+                        },
+                        {
+                            "name": "mystcraft",
+                            "url": "https://media.forgecdn.net/files/2699/673/mystcraft-1.12.2-0.13.7.03.jar"
+                        },
+                        {
+                            "name": "mystcraftjei",
+                            "url": "https://github.com/BrisingrAerowing/mystcraft-jei-plugin/releases/download/1.0/mystcraft-jei-1.12.2-1.0.0.jar"
+                        },
+                        {
+                            "name": "Thaumcraft",
+                            "url": "https://media.forgecdn.net/files/2629/23/Thaumcraft-1.12.2-6.1.BETA26.jar"
+                        },
+                        {
+                            "name": "ThaumicJEI",
+                            "url": "https://media.forgecdn.net/files/2705/304/ThaumicJEI-1.12.2-1.6.0-27.jar"
+                        },
+                        {
+                            "name": "MrTJPCore",
+                            "url": "https://media.forgecdn.net/files/2572/409/MrTJPCore-1.12.2-2.1.3.35-universal.jar"
+                        },
+                        {
+                            "name": "ChickenChunks",
+                            "url": "https://media.forgecdn.net/files/2594/241/ChickenChunks-1.12.2-2.4.1.73-universal.jar"
+                        },
+                        {
+                            "name": "CodeChickenLib",
+                            "url": "https://media.forgecdn.net/files/2618/630/CodeChickenLib-1.12.2-3.2.2.353-universal.jar"
+                        },
+                        {
+                            "name": "BrandonsCore",
+                            "url": "https://media.forgecdn.net/files/2710/581/BrandonsCore-1.12.2-2.4.12.205-universal.jar"
+                        },
+                        {
+                            "name": "RebornCore",
+                            "url": "https://media.forgecdn.net/files/2697/453/RebornCore-1.12.2-3.13.12.447-universal.jar"
+                        },
+                        {
+                            "name": "mojo-redmetal",
+                            "url": "https://media.forgecdn.net/files/2587/828/mojo-redmetal-1.12.2-1.0.1.jar"
+                        },
+                        {
+                            "name": "ProjectRed-integration",
+                            "url": "https://media.forgecdn.net/files/2572/427/ProjectRed-1.12.2-4.9.1.92-integration.jar"
+                        },
+                        {
+                            "name": "ForgeMultipart",
+                            "url": "https://media.forgecdn.net/files/2661/99/ForgeMultipart-1.12.2-2.6.1.81-universal.jar"
+                        },
+                        {
+                            "name": "EnderIO",
+                            "url": "https://media.forgecdn.net/files/2708/308/EnderIO-1.12.2-5.0.44.jar"
+                        },
+                        {
+                            "name": "MoreRefinedStorage",
+                            "url": "https://media.forgecdn.net/files/2714/429/morerefinedstorage-1.1.6.jar"
+                        },
+                        {
+                            "name": "FancyFluidStorage",
+                            "url": "https://media.forgecdn.net/files/2701/449/Fancy+Fluid+Storage-1.12.2-2.2.4.jar"
+                        },
+                        {
+                            "name": "NevokaCore",
+                            "url": "https://media.forgecdn.net/files/2676/406/nevoka-core-1.0.2.jar"
+                        },
+                        {
+                            "name": "EnderCore",
+                            "url": "https://media.forgecdn.net/files/2699/428/EnderCore-1.12.2-0.5.57.jar"
+                        },
+                        {
+                            "name": "StellarFluidConduit",
+                            "url": "https://media.forgecdn.net/files/2711/915/stellarfluidconduit-1.12.2-1.0.1.jar"
+                        },
+                        {
+                            "name": "EnderIO-endergy",
+                            "url": "https://media.forgecdn.net/files/2708/307/EnderIO-endergy-1.12.2-5.0.44.jar"
+                        },
+                        {
+                            "name": "NuclearCraft",
+                            "url": "https://media.forgecdn.net/files/2707/577/NuclearCraft-2.16f-1.12.2.jar"
+                        },
+                        {
+                            "name": "NotEnoughRTGs",
+                            "url": "https://media.forgecdn.net/files/2691/475/notenoughrtgs-1.2.jar"
+                        },
+                        {
+                            "name": "Forestry",
+                            "url": "https://media.forgecdn.net/files/2583/367/forestry_1.12.2-5.8.1.322.jar"
+                        },
+                        {
+                            "name": "GalacticCraftCore",
+                            "url": "https://zt.je/mc-mods/GalacticraftCore-4.0.2.210-1.12.2.jar"
+                        },
+                        {
+                            "name": "GalacticCraftPlanets",
+                            "url": "https://zt.je/mc-mods/Galacticraft-Planets-4.0.2.210-1.12.2.jar"
+                        },
+                        {
+                            "name": "MicDoodleCore",
+                            "url": "https://zt.je/mc-mods/MicdoodleCore-4.0.2.210-1.12.2.jar"
+                        },
+                        {
+                            "name": "CustomMobSpawner",
+                            "url": "https://zt.je/mc-mods/custommobspawner-3.11.4-1.12.2.jar"
+                        },
+                        {
+                            "name": "Botania",
+                            "url": "https://media.forgecdn.net/files/2698/39/Botania+r1.10-361.jar"
+                        },
+                        {
+                            "name": "ConstructsArmory",
+                            "url": "https://media.forgecdn.net/files/2701/828/conarm-1.12.2-1.2.3.4.jar"
+                        },
+                        {
+                            "name": "ProjectEIntegration",
+                            "url": "https://media.forgecdn.net/files/2717/338/ProjectEIntegration-1.12.2-2.2.13.jar"
+                        }
+                    ]
+                },
                 "1.0.1": {
                     "overlay": "https://zt.je/etckit/overlay.zip",
                     "version": "1.0.1",
