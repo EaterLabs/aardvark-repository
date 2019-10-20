@@ -6,6 +6,420 @@
         "homepage": "https://github.com/EaterLabs/aardvark-repository"
     },
     "modpacks": {
+        "eater/p4k": {
+            "id": "eater/p4k",
+            "name": "p4k",
+            "authors": [
+                {
+                    "name": "eater",
+                    "email": "=@eater.me"
+                }
+            ],
+            "logo": "https://zt.je/p4k/logo.png",
+            "description": "eater builds another modpack",
+            "versions": {
+                "1.0.0": {
+                    "overlay": "https://zt.je/p4k/1.0.0/overlay.zip ",
+                    "version": "1.0.0",
+                    "minecraft": "1.12.2",
+                    "forge": "14.23.5.2847",
+                    "mods": [
+                        {
+                            "url": "https://media.forgecdn.net/files/2670/367/InventoryTweaks-1.64%2Bdev.146.jar",
+                            "name": "InventoryTweaks"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2755/795/Translocators-1.12.2-2.5.2.81-universal.jar",
+                            "name": "Translocators"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2722/271/ExtremeReactors-1.12.2-0.4.5.67.jar",
+                            "name": "ExtremeReactors"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2803/400/jei_1.12.2-4.15.0.291.jar",
+                            "name": "jei"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2518/667/Baubles-1.12-1.5.2.jar",
+                            "name": "Baubles"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2755/458/journeymap-1.12.2-5.5.5.jar",
+                            "name": "journeymap"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2496/585/AppleSkin-mc1.12-1.0.9.jar",
+                            "name": "AppleSkin"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2727/867/Erebus-1.0.30.jar",
+                            "name": "Erebus"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2777/929/StorageDrawers-1.12.2-5.4.0.jar",
+                            "name": "StorageDrawers"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2450/900/Chameleon-1.12-4.1.3.jar",
+                            "name": "Chameleon"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2595/310/Neat+1.4-17.jar",
+                            "name": "Neat"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2779/16/IntegratedDynamics-1.12.2-1.1.0.jar",
+                            "name": "IntegratedDynamics"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2811/241/CyclopsCore-1.12.2-1.5.1.jar",
+                            "name": "CyclopsCore"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2732/756/IntegratedTunnels-1.12.2-1.6.10.jar",
+                            "name": "IntegratedTunnels"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2811/237/IntegratedTerminals-1.12.2-1.0.12.jar",
+                            "name": "IntegratedTerminals"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2732/760/IntegratedCrafting-1.12.2-1.0.8.jar",
+                            "name": "IntegratedCrafting"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2811/267/EvilCraft-1.12.2-0.10.78.jar",
+                            "name": "EvilCraft"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2729/138/EverlastingAbilities-1.12.2-1.5.1.jar",
+                            "name": "EverlastingAbilities"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2739/226/CommonCapabilities-1.12.2-2.4.4.jar",
+                            "name": "CommonCapabilities"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2689/266/CapabilityProxy-1.12.2-2.1.3.jar",
+                            "name": "CapabilityProxy"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2778/295/EverlastingAbilities-PotionCore-1.12.2-1.0.2.jar",
+                            "name": "EverlastingAbilities-PotionCore"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2747/63/appliedenergistics2-rv6-stable-7.jar",
+                            "name": "appliedenergistics2"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2725/872/WirelessCraftingTerminal-1.12.2-3.12.93.jar",
+                            "name": "WirelessCraftingTerminal"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2747/935/ironchest-1.12.2-7.0.72.847.jar",
+                            "name": "ironchest"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2664/449/Morpheus-1.12.2-3.5.106.jar",
+                            "name": "Morpheus"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2574/880/BiblioCraft%5bv2.4.5%5d%5bMC1.12.2%5d.jar",
+                            "name": "BiblioCraft"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2794/895/OreExcavation-1.4.143.jar",
+                            "name": "OreExcavation"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2756/932/twilightforest-1.12.2-3.9.984-universal.jar",
+                            "name": "twilightforest"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2476/931/pressure-1.3.1.6-mc1.12.1.jar",
+                            "name": "pressure"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2518/31/bdlib-1.14.3.12-mc1.12.2.jar",
+                            "name": "bdlib"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2716/100/CoFHCore-1.12.2-4.6.3.27-universal.jar",
+                            "name": "CoFHCore"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2716/138/ThermalDynamics-1.12.2-2.5.5.21-universal.jar",
+                            "name": "ThermalDynamics"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2623/90/RedstoneFlux-1.12-2.1.0.6-universal.jar",
+                            "name": "RedstoneFlux"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2715/788/ThermalFoundation-1.12.2-2.6.3.27-universal.jar",
+                            "name": "ThermalFoundation"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2715/787/ThermalInnovation-1.12.2-0.3.3.12-universal.jar",
+                            "name": "ThermalInnovation"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2745/848/rftools-1.12-7.72.jar",
+                            "name": "rftools"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2715/791/ThermalCultivation-1.12.2-0.3.3.12-universal.jar",
+                            "name": "ThermalCultivation"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2796/682/UniDict-1.12.2-2.9.3.jar",
+                            "name": "UniDict"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2704/397/deepresonance-1.12-1.8.0.jar",
+                            "name": "deepresonance"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2783/99/SolarFluxReborn_1.12.2-4.35r.jar",
+                            "name": "SolarFluxReborn"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2693/651/SolarFluxAdditions-1.12.2-17r.jar",
+                            "name": "SolarFluxAdditions"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2713/386/Mantle-1.12-1.3.3.55.jar",
+                            "name": "Mantle"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2767/201/Apotheosis-1.12.2-1.10.5.jar",
+                            "name": "Apotheosis"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2774/57/ActuallyAdditions-1.12.2-r150.jar",
+                            "name": "ActuallyAdditions"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2630/860/TinkerToolLeveling-1.12.2-1.1.0.jar",
+                            "name": "TinkerToolLeveling"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2443/194/BetterBuildersWands-1.12-0.11.1.245%2B69d0d70.jar",
+                            "name": "BetterBuildersWands"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2580/52/tesla-core-lib-1.12.2-1.0.15.jar",
+                            "name": "tesla-core-lib"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2745/321/industrialforegoing-1.12.2-1.12.13-237.jar",
+                            "name": "industrialforegoing"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2487/959/Tesla-1.12.2-1.0.63.jar",
+                            "name": "Tesla"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2785/465/Forgelin-1.8.4.jar",
+                            "name": "Forgelin"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2728/585/JustEnoughResources-1.12.2-0.9.2.60.jar",
+                            "name": "JustEnoughResources"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2798/295/Mekanism-1.12.2-9.8.2.389.jar",
+                            "name": "Mekanism"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2771/618/BuildingGadgets-2.7.3.jar",
+                            "name": "BuildingGadgets"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2564/573/IronBackpacks-1.12.2-3.0.8-12.jar",
+                            "name": "IronBackpacks"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2745/852/xnet-1.12-1.8.2.jar",
+                            "name": "xnet"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2526/674/malisisdoors-1.12.2-7.3.0.jar",
+                            "name": "malisisdoors"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2680/892/malisiscore-1.12.2-6.5.1.jar",
+                            "name": "malisiscore"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2526/682/malisisswitches-1.12.2-5.1.0.jar",
+                            "name": "malisisswitches"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2798/297/MekanismGenerators-1.12.2-9.8.2.389.jar",
+                            "name": "MekanismGenerators"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2712/229/SpartanShields-1.12.2-1.5.4.jar",
+                            "name": "SpartanShields"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2699/55/OpenModsLib-1.12.2-0.12.2.jar",
+                            "name": "OpenModsLib"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2699/56/OpenBlocks-1.12.2-1.8.1.jar",
+                            "name": "OpenBlocks"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2656/683/MobGrindingUtils-0.3.13.jar",
+                            "name": "MobGrindingUtils"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2705/810/comforts-1.12.2-1.4.1.2.jar",
+                            "name": "comforts"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2736/248/PotionCore-1.8_for_1.12.2.jar",
+                            "name": "PotionCore"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2524/58/ChestTransporter-1.12.2-2.8.8.jar",
+                            "name": "ChestTransporter"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2698/796/topaddons-1.12.2-1.11.0.jar",
+                            "name": "topaddons"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2667/280/theoneprobe-1.12-1.4.28.jar",
+                            "name": "theoneprobe"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2676/458/IntegrationForegoing-1.12.2-1.9.jar",
+                            "name": "IntegrationForegoing"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2809/585/conarm-1.12.2-1.2.5.jar",
+                            "name": "conarm"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2672/438/Aroma1997s-Dimensional-World-1.12.2-2.0.0.2.jar",
+                            "name": "Aroma1997s-Dimensional-World"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2459/131/ActuallyBaubles-1.12-1.1.jar",
+                            "name": "ActuallyBaubles"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2738/722/StevesCarts-1.12.2-2.4.31.135.jar",
+                            "name": "StevesCarts"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2798/89/RebornCore-1.12.2-3.16.3.476-universal.jar",
+                            "name": "RebornCore"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2649/533/viesmachines-1.12.2-1.0.0.jar",
+                            "name": "viesmachines"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2708/30/YNot-0.2.4.jar",
+                            "name": "YNot"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2809/406/TConstruct-1.12.2-2.13.0.171.jar",
+                            "name": "TConstruct"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2745/46/p455w0rdslib-1.12.2-2.2.156.jar",
+                            "name": "p455w0rdslib"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2745/846/mcjtylib-1.12-3.5.4.jar",
+                            "name": "mcjtylib"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2726/967/AE2WTLib-1.12.2-1.0.30.jar",
+                            "name": "AE2WTLib"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2694/382/Placebo-1.12.2-1.6.0.jar",
+                            "name": "Placebo"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2676/866/Aroma1997Core-1.12.2-2.0.0.2.jar",
+                            "name": "Aroma1997Core"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2684/780/forestry_1.12.2-5.8.2.387.jar",
+                            "name": "forestry"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2516/215/gendustry-1.6.5.8-mc1.12.2.jar",
+                            "name": "gendustry"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2731/319/Controlling-3.0.7.jar",
+                            "name": "Controlling"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2779/848/CodeChickenLib-1.12.2-3.2.3.358-universal.jar",
+                            "name": "CodeChickenLib"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2670/570/zerocore-1.12.2-0.1.2.8.jar",
+                            "name": "zerocore"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2679/741/ElecCore-1.12.2-1.9.452.jar",
+                            "name": "ElecCore"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2755/790/ForgeMultipart-1.12.2-2.6.2.83-universal.jar",
+                            "name": "ForgeMultipart"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2715/784/CoFHWorld-1.12.2-1.3.1.7-universal.jar",
+                            "name": "CoFHWorld"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2807/433/WanionLib-1.12.2-2.4.jar",
+                            "name": "WanionLib"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2684/561/MTLib-3.0.6.jar",
+                            "name": "MTLib"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2733/516/CookingForBlockheads_1.12.2-6.4.71.jar",
+                            "name": "CookingForBlockheads"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2811/725/HammerCore-1.12.2-2.0.5.3.jar",
+                            "name": "HammerCore"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2720/655/chiselsandbits-14.33.jar",
+                            "name": "chiselsandbits"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2715/827/flatcoloredblocks-mc1.12-6.8.jar",
+                            "name": "flatcoloredblocks"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2739/582/modnametooltip_1.12.2-1.10.1.jar",
+                            "name": "modnametooltip"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2643/616/itemzoom_1.12.2-1.11.jar",
+                            "name": "itemzoom"
+                        }
+                    ]
+                }
+            }
+        },
         "eater/etc_kit": {
             "id": "eater/etc_kit",
             "name": "/etc/kit",
