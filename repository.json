@@ -1326,9 +1326,9 @@
                         }
                     ]
                 },
-                "1.2.1": {
+                "1.2.2": {
                     "overlay": "https://zt.je/p4k/1.2.0/overlay.zip",
-                    "version": "1.2.1",
+                    "version": "1.2.2",
                     "minecraft": "1.12.2",
                     "forge": "14.23.5.2847",
                     "mods": [
@@ -1877,7 +1877,7 @@
                             "name": "JEIEnergetics"
                         },
                         {
-                            "url": "https://media.forgecdn.net/files/2811/677/minecolonies-1.12.2-0.10.438-RELEASE-universal.jar",
+                            "url": "https://media.forgecdn.net/files/2818/963/minecolonies-1.12.2-0.10.488-RELEASE-universal.jar",
                             "name": "minecolonies"
                         },
                         {
