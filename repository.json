@@ -1326,9 +1326,9 @@
                         }
                     ]
                 },
-                "1.2.0": {
+                "1.2.1": {
                     "overlay": "https://zt.je/p4k/1.2.0/overlay.zip",
-                    "version": "1.2.0",
+                    "version": "1.2.1",
                     "minecraft": "1.12.2",
                     "forge": "14.23.5.2847",
                     "mods": [
@@ -1363,6 +1363,10 @@
                         {
                             "url": "https://media.forgecdn.net/files/2753/317/Draconic-Evolution-1.12.2-2.3.24.349-universal.jar",
                             "name": "DraconicEvolution"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/2744/222/BrandonsCore-1.12.2-2.4.17.208-universal.jar",
+                            "name": "BrandonsCore"
                         },
                         {
                             "url": "https://media.forgecdn.net/files/2755/787/EnderStorage-1.12.2-2.4.6.137-universal.jar",
