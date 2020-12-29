@@ -6,6 +6,165 @@
         "homepage": "https://github.com/EaterLabs/aardvark-repository"
     },
     "modpacks": {
+        "eater/projectcookiedough": {
+            "id": "eater/projectcookiedough",
+            "name": "Project Cookie Dough",
+            "authors": [
+                {
+                    "name": "turtle"
+                },
+                {
+                    "name": "eater",
+                    "email": "=@eater.me"
+                }
+            ],
+            "description": "Bring your own cookie dough",
+            "versions": {
+                "1.0.0": {
+                    "version": "1.0.0",
+                    "minecraft": "1.16.3",
+                    "forge": "34.1.40",
+                    "mods": [
+                        {
+                            "url": "https://media.forgecdn.net/files/3146/74/create-mc1.16.3_v0.3b.jar",
+                            "name": "create"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/3068/784/ironchest-1.16.3-11.2.6.jar",
+                            "name": "ironchest"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/3108/607/theoneprobe-1.16-3.0.6.jar",
+                            "name": "theoneprobe"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/3035/780/MouseTweaks-2.13-mc1.16.2.jar",
+                            "name": "mousetweaks"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/3104/18/jei-1.16.3-7.6.0.51.jar",
+                            "name": "jei"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/3094/818/appliedenergistics2-8.1.0-beta.2.jar",
+                            "name": "appliedenergistics2"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/3142/954/Xaeros_Minimap_20.29.1_Forge_1.16.4.jar",
+                            "name": "xaerosminimap"
+                        },
+                        {
+                            "url": "https://zt.je/pcd/optifine-1.16.3_hd_u_g5.jar ",
+                            "name": "optifine"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/3151/516/thermal_foundation-1.16.3-1.1.4.jar",
+                            "name": "thermalfoundation"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/3150/699/thermal_locomotion-1.16.3-1.1.3.jar",
+                            "name": "thermallocomotion"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/3151/753/thermal_expansion-1.16.3-1.1.4.jar",
+                            "name": "thermalexpansion"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/3150/698/thermal_cultivation-1.16.3-1.1.3.jar",
+                            "name": "thermalcultivation"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/3151/513/cofh_core-1.16.3-1.1.4.jar",
+                            "name": "cofhcore"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/3147/563/archers_paradox-1.16.3-1.1.0.jar",
+                            "name": "archersparadox"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/3147/571/thermal_innovation-1.16.3-1.1.0.jar",
+                            "name": "thermalinnovation"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/3149/59/ensorcellation-1.16.3-1.1.1.jar",
+                            "name": "ensorcellation"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/3092/987/StorageDrawers-1.16.3-8.2.1.jar",
+                            "name": "storagedrawers"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/3140/147/rftoolsbase-1.16-2.0.9.jar",
+                            "name": "rftoolsbase"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/3096/835/rftoolscontrol-1.16-4.0.6.jar",
+                            "name": "rftoolscontrol"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/3087/309/rftoolspower-1.16-3.0.8.jar",
+                            "name": "rftoolspower"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/3140/151/rftoolsbuilder-1.16-3.0.13.jar",
+                            "name": "rftoolsbuilder"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/3142/803/rftoolsstorage-1.16-2.0.8.jar",
+                            "name": "rftoolsstorage"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/3131/250/rftoolsutility-1.16-3.0.19.jar",
+                            "name": "rftoolsutility"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/3092/849/Mekanism-1.16.3-10.0.15.441.jar",
+                            "name": "mekanism"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/3092/853/MekanismAdditions-1.16.3-10.0.15.441.jar",
+                            "name": "mekanismadditions"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/3092/851/MekanismGenerators-1.16.3-10.0.15.441.jar",
+                            "name": "mekanismgenerators"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/3092/852/MekanismTools-1.16.3-10.0.15.441.jar",
+                            "name": "mekanismtools"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/3131/241/mcjtylib-1.16-5.0.15.jar",
+                            "name": "mcjtylib"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/3094/151/Quark-r2.4-271.jar",
+                            "name": "quark"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/3088/871/QuarkOddities-1.16.3.jar",
+                            "name": "quarkoddities"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/3077/903/inventorysorter-1.16.1-18.1.0.jar",
+                            "name": "inventorysorter"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/3106/707/Psi+1.16-88.jar",
+                            "name": "psi"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/3128/555/AutoRegLib-1.6-47.jar",
+                            "name": "autoreglib"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/3086/492/Patchouli-1.16.2-47.jar",
+                            "name": "patchouli"
+                        }
+                    ]
+                }
+            }
+        },
         "eater/p4k": {
             "id": "eater/p4k",
             "name": "p4k",
@@ -1421,7 +1580,7 @@
                             "name": "Obfuscate"
                         },
                         {
-                            "url" : "https://media.forgecdn.net/files/2678/374/extrautils2-1.12-1.9.9.jar",
+                            "url": "https://media.forgecdn.net/files/2678/374/extrautils2-1.12-1.9.9.jar",
                             "name": "ExtraUtils2"
                         },
                         {
