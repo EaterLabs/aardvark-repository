@@ -6,6 +6,20 @@
         "homepage": "https://github.com/EaterLabs/aardvark-repository"
     },
     "modpacks": {
+	"minecraft/vanilla":{
+	    "id": "minecraft/vanilla",
+	    "name": "Minecraft",
+	    "authors": [],
+	    "description": "It's like the base game!",
+	    "versions": {
+                "1.16.4": {
+		    "version": "1.16.4",
+		    "minecraft": "1.16.4",
+		    "forge": null,
+		    "mods": []
+		}
+	    }
+	},
         "eater/projectcookiedough": {
             "id": "eater/projectcookiedough",
             "name": "Project Cookie Dough",
