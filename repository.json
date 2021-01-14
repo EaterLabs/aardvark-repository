@@ -661,6 +661,230 @@
                             "name": "mantle"
                         }
                     ]
+                },
+                "1.3.0": {
+                    "overlay": "https://zt.je/pcb/overlay/1.3.0.zip",
+                    "version": "1.3.0",
+                    "minecraft": "1.16.3",
+                    "forge": "34.1.40",
+                    "mods": [
+                        {
+                            "url": "https://media.forgecdn.net/files/3146/74/create-mc1.16.3_v0.3b.jar",
+                            "name": "create"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/3068/784/ironchest-1.16.3-11.2.6.jar",
+                            "name": "ironchest"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/3108/607/theoneprobe-1.16-3.0.6.jar",
+                            "name": "theoneprobe"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/3035/780/MouseTweaks-2.13-mc1.16.2.jar",
+                            "name": "mousetweaks"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/3104/18/jei-1.16.3-7.6.0.51.jar",
+                            "name": "jei"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/3094/818/appliedenergistics2-8.1.0-beta.2.jar",
+                            "name": "appliedenergistics2"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/3142/954/Xaeros_Minimap_20.29.1_Forge_1.16.4.jar",
+                            "name": "xaerosminimap"
+                        },
+                        {
+                            "url": "https://zt.je/pcd/optifine-1.16.3_hd_u_g5.jar ",
+                            "name": "optifine"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/3151/516/thermal_foundation-1.16.3-1.1.4.jar",
+                            "name": "thermalfoundation"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/3150/699/thermal_locomotion-1.16.3-1.1.3.jar",
+                            "name": "thermallocomotion"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/3151/753/thermal_expansion-1.16.3-1.1.4.jar",
+                            "name": "thermalexpansion"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/3150/698/thermal_cultivation-1.16.3-1.1.3.jar",
+                            "name": "thermalcultivation"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/3151/513/cofh_core-1.16.3-1.1.4.jar",
+                            "name": "cofhcore"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/3147/563/archers_paradox-1.16.3-1.1.0.jar",
+                            "name": "archersparadox"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/3147/571/thermal_innovation-1.16.3-1.1.0.jar",
+                            "name": "thermalinnovation"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/3149/59/ensorcellation-1.16.3-1.1.1.jar",
+                            "name": "ensorcellation"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/3092/987/StorageDrawers-1.16.3-8.2.1.jar",
+                            "name": "storagedrawers"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/3140/147/rftoolsbase-1.16-2.0.9.jar",
+                            "name": "rftoolsbase"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/3096/835/rftoolscontrol-1.16-4.0.6.jar",
+                            "name": "rftoolscontrol"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/3087/309/rftoolspower-1.16-3.0.8.jar",
+                            "name": "rftoolspower"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/3140/151/rftoolsbuilder-1.16-3.0.13.jar",
+                            "name": "rftoolsbuilder"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/3142/803/rftoolsstorage-1.16-2.0.8.jar",
+                            "name": "rftoolsstorage"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/3131/250/rftoolsutility-1.16-3.0.19.jar",
+                            "name": "rftoolsutility"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/3092/849/Mekanism-1.16.3-10.0.15.441.jar",
+                            "name": "mekanism"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/3092/853/MekanismAdditions-1.16.3-10.0.15.441.jar",
+                            "name": "mekanismadditions"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/3092/851/MekanismGenerators-1.16.3-10.0.15.441.jar",
+                            "name": "mekanismgenerators"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/3092/852/MekanismTools-1.16.3-10.0.15.441.jar",
+                            "name": "mekanismtools"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/3131/241/mcjtylib-1.16-5.0.15.jar",
+                            "name": "mcjtylib"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/3094/151/Quark-r2.4-271.jar",
+                            "name": "quark"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/3088/871/QuarkOddities-1.16.3.jar",
+                            "name": "quarkoddities"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/3077/903/inventorysorter-1.16.1-18.1.0.jar",
+                            "name": "inventorysorter"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/3106/707/Psi+1.16-88.jar",
+                            "name": "psi"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/3128/555/AutoRegLib-1.6-47.jar",
+                            "name": "autoreglib"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/3086/492/Patchouli-1.16.2-47.jar",
+                            "name": "patchouli"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/3089/318/lumberjack-2.1.4.jar",
+                            "name": "lumberjack"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/3066/754/JustEnoughResources-1.16.3-0.12.0.100.jar",
+                            "name": "justenoughresources"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/3111/240/refinedstorage-1.9.9.jar",
+                            "name": "refinedstorage"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/3090/646/cc-tweaked-1.16.3-1.93.1.jar",
+                            "name": "cctweaked"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/3133/0/ftb-gui-library-1604.1.1.26.jar",
+                            "name": "ftbguilib"
+                        },
+                        {
+                            "url": "https://zt.je/pcb/TConstruct-1.16.4-3.0.1.DEV.897157cbd.jar",
+                            "name": "tcon"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/3156/757/Mantle-1.16.4-1.6.52.jar",
+                            "name": "mantle"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/3068/158/valkyrielib-1.16.3-3.0.3.2.jar",
+                            "name": "valkyrielib"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/3097/622/Cucumber-1.16.3-4.1.3.jar",
+                            "name": "cucumber"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/3066/540/JEITweaker-1.16.3-1.0.1.4.jar",
+                            "name": "jeitweaker"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/3084/555/CraftTweaker-1.16.3-7.0.0.48.jar",
+                            "name": "crafttweaker"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/3055/465/mininggadgets-1.6.0.jar",
+                            "name": "mininggadgets"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/3097/299/buildinggadgets-3.7.2.jar",
+                            "name": "buildinggadgets"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/3098/221/TrashSlot_1.16.3-12.2.1.jar",
+                            "name": "trashslot"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/3092/18/MysticalAgriculture-1.16.3-4.1.1.jar",
+                            "name": "mysticalagriculture"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/3097/267/Controlling-7.0.0.9.jar",
+                            "name": "controlling"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/3101/446/ImmersiveEngineering-1.16.3-4.1.1-127.jar",
+                            "name": "immersiveengineering"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/3137/386/ImmersivePetroleum-1.16.3-3.1.0.jar",
+                            "name": "immersivepetroleum"
+                        },
+                        {
+                            "url": "https://media.forgecdn.net/files/3068/204/simplechunkloaders-1.16.3-1.0.3.2.jar",
+                            "name": "simplechunkloaders"
+                        },
+                        {
+                            "url": "https://zt.je/foxiemod/0.1.jar",
+                            "name": "foxiemod"
+                        }
+                    ]
                 }
             }
         },
