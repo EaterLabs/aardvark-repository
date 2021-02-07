@@ -1562,8 +1562,8 @@
                         }
                     ]
                 },
-                "1.4.2": {
-                    "version": "1.4.2",
+                "1.4.3": {
+                    "version": "1.4.3",
                     "overlay": "https://zt.je/pcd/overlay/1.4.1.zip",
                     "forge": "36.0.14",
                     "minecraft": "1.16.5",
@@ -1595,6 +1595,10 @@
                         {
                             "name": "xaerosminimap",
                             "url": "https://media.forgecdn.net/files/3190/741/Xaeros_Minimap_21.2.0.2_Forge_1.16.5.jar"
+                        },
+                        {
+                            "name": "xaerosworldmap",
+                            "url": "https://media.forgecdn.net/files/3190/743/XaerosWorldMap_1.11.11.2_Forge_1.16.5.jar"
                         },
                         {
                             "name": "optifine",
