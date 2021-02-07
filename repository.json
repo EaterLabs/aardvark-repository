@@ -1562,9 +1562,9 @@
                         }
                     ]
                 },
-                "1.4.0": {
-                    "version": "1.4.0",
-                    "overlay": "https://zt.je/pcd/overlay/1.4.0.zip",
+                "1.4.1": {
+                    "version": "1.4.1",
+                    "overlay": "https://zt.je/pcd/overlay/1.4.1.zip",
                     "forge": "36.0.14",
                     "minecraft": "1.16.5",
                     "mods": [
