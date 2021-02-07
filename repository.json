@@ -1562,8 +1562,8 @@
                         }
                     ]
                 },
-                "1.4.1": {
-                    "version": "1.4.1",
+                "1.4.2": {
+                    "version": "1.4.2",
                     "overlay": "https://zt.je/pcd/overlay/1.4.1.zip",
                     "forge": "36.0.14",
                     "minecraft": "1.16.5",
@@ -1750,7 +1750,7 @@
                         },
                         {
                             "name": "crafttweaker",
-                            "url": "https://media.forgecdn.net/files/3193/282/CraftTweaker-1.16.5-7.1.0.117.jar"
+                            "url": "https://zt.je/pcd/CraftTweaker-1.16.5-7.1.0.jar"
                         },
                         {
                             "name": "mininggadgets",
